@@ -2,4 +2,6 @@ Insert the Office CD in the CD/DVD drive of your system
 Follow the on-screen instructions to download the product
 
    In the former case, you will get an Office product key that will be asked at the time of activation, on your registered email Id. For Offline purchase, you will get the product key along with the CD. Keep this key secure with you!office.com/setup
-   https://office.com/setup
+ 
+
+http://office-settup.com/
